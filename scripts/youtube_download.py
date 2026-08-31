@@ -13,7 +13,7 @@ import yt_dlp
 # =========================================================
 
 OUTPUT_DIR = Path(
-    r"C:\LipReadingSSL\dataset\raw_videos"
+    r"D:\Face_detection\dataset\raw_videos"
 )
 
 OUTPUT_DIR.mkdir(

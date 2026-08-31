@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+.venv312/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+cache/
+
+# Dataset - เก็บ local
+dataset/
+
+# Generated outputs
+output/
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
